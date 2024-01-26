@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Layer name="Floor Lights">
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="21" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>201</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.374" y="0.146" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="22" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>206</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.374" y="0.146" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="23" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>211</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.374" y="0.146" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="24" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>216</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.567" y="0.158" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="25" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>221</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.433" y="0.158" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="26" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>226</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.433" y="0.158" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="27" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>231</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.433" y="0.158" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="ADB ALC4 Standard [CT Mode=7 Step Preset]" fixture_id="28" channel_id="0">
+			<FixtureType name="1 ADB ALC4 Standard [CT Mode=7 Step Preset]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="98fd5b">
+				<Patch>
+					<Address>236</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="3.626" y="0.172" z="1.086" />
+					<Rotation x="120.6" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="Truss Lights">
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="1" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.532" y="1.362" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="20.2" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="2" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>21</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.762" y="1.866" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="15.7" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="3" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>41</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.943" y="1.814" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="11.2" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="4" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>61</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.156" y="2.179" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="6.7" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="5" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>81</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.356" y="1.999" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="2.2" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="6" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>101</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.471" y="2.236" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="-2.3" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="7" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>121</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.273" y="1.927" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="-6.8" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="8" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>141</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.080" y="2.036" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="-11.3" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="9" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>161</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.857" y="1.596" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="-15.8" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky A.leda Wash K20 Standard" fixture_id="10" channel_id="0">
+			<FixtureType name="1 Clay Paky A.leda Wash K20 Standard">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>181</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="3.668" y="1.575" z="5.839" />
+					<Rotation x="-0.0" y="-0.0" z="-20.3" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="11" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>513</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.653" y="-0.891" z="5.565" />
+					<Rotation x="-180.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="12" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>545</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.653" y="-0.891" z="4.565" />
+					<Rotation x="-180.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="13" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>577</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.653" y="-0.891" z="3.565" />
+					<Rotation x="-180.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="14" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>609</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.653" y="-0.891" z="2.565" />
+					<Rotation x="-180.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="15" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>641</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.653" y="-0.891" z="1.565" />
+					<Rotation x="-180.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="16" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>673</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.703" y="-0.891" z="5.565" />
+					<Rotation x="-180.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="17" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>705</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.703" y="-0.891" z="4.565" />
+					<Rotation x="-180.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="18" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>737</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.703" y="-0.891" z="3.565" />
+					<Rotation x="-180.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="19" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>769</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.703" y="-0.891" z="2.565" />
+					<Rotation x="-180.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]" fixture_id="20" channel_id="0">
+			<FixtureType name="1 Clay Paky Alpha Spot QWO 800 Standard [Lamp Dmx] [Color Mixing=Cmy]">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>801</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.703" y="-0.891" z="1.565" />
+					<Rotation x="-180.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="29" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1025</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.846" y="-3.282" z="7.813" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="30" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1063</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.060" y="-2.496" z="7.515" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="31" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1101</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-5.274" y="-1.710" z="7.217" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="32" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1139</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-4.488" y="-0.924" z="6.920" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="33" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1177</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.702" y="-0.139" z="6.622" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="34" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1215</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.917" y="0.647" z="6.324" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="35" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1537</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.600" y="-5.779" z="7.813" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="36" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1575</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.312" y="-4.706" z="7.515" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="37" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1613</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.025" y="-3.632" z="7.217" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="38" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1651</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.737" y="-2.559" z="6.920" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="39" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1689</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.449" y="-1.486" z="6.622" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="40" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1727</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.162" y="-0.412" z="6.324" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="41" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2049</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.326" y="-5.819" z="7.813" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="42" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2087</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.038" y="-4.746" z="7.515" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="43" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2125</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.750" y="-3.673" z="7.217" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="44" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2163</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.463" y="-2.599" z="6.920" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="45" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2201</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.175" y="-1.526" z="6.622" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="46" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2239</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.888" y="-0.452" z="6.324" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="47" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2561</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.611" y="-3.391" z="7.813" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="48" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2599</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="5.826" y="-2.605" z="7.515" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="49" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2637</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="5.040" y="-1.820" z="7.217" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="50" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2675</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="4.254" y="-1.034" z="6.920" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="51" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2713</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="3.468" y="-0.248" z="6.622" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX Spot 1" fixture_id="52" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX Spot 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2751</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.683" y="0.538" z="6.324" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="53" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1253</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.273" y="-3.048" z="7.660" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="54" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1287</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-5.487" y="-2.262" z="7.362" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="55" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1321</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-4.701" y="-1.476" z="7.065" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="56" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1355</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.915" y="-0.691" z="6.767" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="57" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1389</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.129" y="0.095" z="6.469" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="58" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1423</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.344" y="0.881" z="6.171" />
+					<Rotation x="0.0" y="15.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="59" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1765</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.221" y="-5.290" z="7.660" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="60" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1799</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.933" y="-4.217" z="7.362" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="61" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1833</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.645" y="-3.144" z="7.065" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="62" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1867</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.358" y="-2.070" z="6.767" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="63" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1901</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.070" y="-0.997" z="6.469" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="64" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>1935</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.782" y="0.077" z="6.171" />
+					<Rotation x="0.0" y="15.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="65" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2277</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.410" y="-5.206" z="7.660" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="66" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2311</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.122" y="-4.133" z="7.362" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="67" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2345</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.835" y="-3.059" z="7.065" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="68" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2379</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.547" y="-1.986" z="6.767" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="69" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2413</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.259" y="-0.913" z="6.469" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="70" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2447</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.972" y="0.161" z="6.171" />
+					<Rotation x="180.0" y="-165.0" z="75.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="71" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2789</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.378" y="-2.818" z="7.660" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="72" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2823</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="5.592" y="-2.032" z="7.362" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="73" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2857</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="4.806" y="-1.247" z="7.065" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="74" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2891</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="4.020" y="-0.461" z="6.767" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="75" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2925</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="3.235" y="0.325" z="6.469" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Robe Robin MMX WashBeam 1" fixture_id="76" channel_id="0">
+			<FixtureType name="1 Robe Robin MMX WashBeam 1">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="87f7fc">
+				<Patch>
+					<Address>2959</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.449" y="1.111" z="6.171" />
+					<Rotation x="180.0" y="-165.0" z="45.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+</MA>
